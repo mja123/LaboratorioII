@@ -1,0 +1,28 @@
+C:\Users\Usuario\source\repos\Soldado\Soldado\bin\Debug\netcoreapp3.1\ElSoldado.exe
+C:\Users\Usuario\source\repos\Soldado\Soldado\bin\Debug\netcoreapp3.1\ElSoldado.deps.json
+C:\Users\Usuario\source\repos\Soldado\Soldado\bin\Debug\netcoreapp3.1\ElSoldado.runtimeconfig.json
+C:\Users\Usuario\source\repos\Soldado\Soldado\bin\Debug\netcoreapp3.1\ElSoldado.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Soldado\Soldado\bin\Debug\netcoreapp3.1\ElSoldado.dll
+C:\Users\Usuario\source\repos\Soldado\Soldado\bin\Debug\netcoreapp3.1\ElSoldado.pdb
+C:\Users\Usuario\source\repos\Soldado\Soldado\obj\Debug\netcoreapp3.1\ElSoldado.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Soldado\Soldado\obj\Debug\netcoreapp3.1\ElSoldado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Soldado\Soldado\obj\Debug\netcoreapp3.1\ElSoldado.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Soldado\Soldado\obj\Debug\netcoreapp3.1\ElSoldado.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Soldado\Soldado\obj\Debug\netcoreapp3.1\ElSoldado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Soldado\Soldado\obj\Debug\netcoreapp3.1\ElSoldado.dll
+C:\Users\Usuario\source\repos\Soldado\Soldado\obj\Debug\netcoreapp3.1\ElSoldado.pdb
+C:\Users\Usuario\source\repos\Soldado\Soldado\obj\Debug\netcoreapp3.1\ElSoldado.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Soldado\Soldado\bin\Debug\netcoreapp3.1\ElSoldado.exe
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Soldado\Soldado\bin\Debug\netcoreapp3.1\ElSoldado.deps.json
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Soldado\Soldado\bin\Debug\netcoreapp3.1\ElSoldado.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Soldado\Soldado\bin\Debug\netcoreapp3.1\ElSoldado.runtimeconfig.dev.json
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Soldado\Soldado\bin\Debug\netcoreapp3.1\ElSoldado.dll
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Soldado\Soldado\bin\Debug\netcoreapp3.1\ElSoldado.pdb
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Soldado\Soldado\obj\Debug\netcoreapp3.1\ElSoldado.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Soldado\Soldado\obj\Debug\netcoreapp3.1\ElSoldado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Soldado\Soldado\obj\Debug\netcoreapp3.1\ElSoldado.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Soldado\Soldado\obj\Debug\netcoreapp3.1\ElSoldado.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Soldado\Soldado\obj\Debug\netcoreapp3.1\ElSoldado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Soldado\Soldado\obj\Debug\netcoreapp3.1\ElSoldado.dll
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Soldado\Soldado\obj\Debug\netcoreapp3.1\ElSoldado.pdb
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Soldado\Soldado\obj\Debug\netcoreapp3.1\ElSoldado.genruntimeconfig.cache
