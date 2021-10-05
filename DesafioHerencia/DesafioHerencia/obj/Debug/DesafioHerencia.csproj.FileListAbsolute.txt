@@ -1,0 +1,10 @@
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\WindowsForm\DesafioHerencia\DesafioHerencia\bin\Debug\DesafioHerencia.exe.config
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\WindowsForm\DesafioHerencia\DesafioHerencia\bin\Debug\DesafioHerencia.exe
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\WindowsForm\DesafioHerencia\DesafioHerencia\bin\Debug\DesafioHerencia.pdb
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\WindowsForm\DesafioHerencia\DesafioHerencia\obj\Debug\DesafioHerencia.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\WindowsForm\DesafioHerencia\DesafioHerencia\obj\Debug\DesafioHerencia.form1.resources
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\WindowsForm\DesafioHerencia\DesafioHerencia\obj\Debug\DesafioHerencia.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\WindowsForm\DesafioHerencia\DesafioHerencia\obj\Debug\DesafioHerencia.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\WindowsForm\DesafioHerencia\DesafioHerencia\obj\Debug\DesafioHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\WindowsForm\DesafioHerencia\DesafioHerencia\obj\Debug\DesafioHerencia.exe
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\WindowsForm\DesafioHerencia\DesafioHerencia\obj\Debug\DesafioHerencia.pdb
