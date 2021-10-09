@@ -1,0 +1,13 @@
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Imprimible\DesafioVolador\DesafioVolador\bin\Debug\netcoreapp3.1\DesafioVolador.exe
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Imprimible\DesafioVolador\DesafioVolador\bin\Debug\netcoreapp3.1\DesafioVolador.deps.json
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Imprimible\DesafioVolador\DesafioVolador\bin\Debug\netcoreapp3.1\DesafioVolador.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Imprimible\DesafioVolador\DesafioVolador\bin\Debug\netcoreapp3.1\DesafioVolador.runtimeconfig.dev.json
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Imprimible\DesafioVolador\DesafioVolador\bin\Debug\netcoreapp3.1\DesafioVolador.dll
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Imprimible\DesafioVolador\DesafioVolador\bin\Debug\netcoreapp3.1\DesafioVolador.pdb
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Imprimible\DesafioVolador\DesafioVolador\obj\Debug\netcoreapp3.1\DesafioVolador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Imprimible\DesafioVolador\DesafioVolador\obj\Debug\netcoreapp3.1\DesafioVolador.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Imprimible\DesafioVolador\DesafioVolador\obj\Debug\netcoreapp3.1\DesafioVolador.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Imprimible\DesafioVolador\DesafioVolador\obj\Debug\netcoreapp3.1\DesafioVolador.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Imprimible\DesafioVolador\DesafioVolador\obj\Debug\netcoreapp3.1\DesafioVolador.dll
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Imprimible\DesafioVolador\DesafioVolador\obj\Debug\netcoreapp3.1\DesafioVolador.pdb
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Imprimible\DesafioVolador\DesafioVolador\obj\Debug\netcoreapp3.1\DesafioVolador.genruntimeconfig.cache

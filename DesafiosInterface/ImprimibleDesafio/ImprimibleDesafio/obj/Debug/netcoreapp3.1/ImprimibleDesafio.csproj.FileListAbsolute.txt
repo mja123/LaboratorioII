@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Imprimible\ImprimibleDesafio\ImprimibleDesafio\bin\Debug\netcoreapp3.1\ImprimibleDesafio.exe
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Imprimible\ImprimibleDesafio\ImprimibleDesafio\bin\Debug\netcoreapp3.1\ImprimibleDesafio.deps.json
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Imprimible\ImprimibleDesafio\ImprimibleDesafio\bin\Debug\netcoreapp3.1\ImprimibleDesafio.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Imprimible\ImprimibleDesafio\ImprimibleDesafio\bin\Debug\netcoreapp3.1\ImprimibleDesafio.runtimeconfig.dev.json
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Imprimible\ImprimibleDesafio\ImprimibleDesafio\bin\Debug\netcoreapp3.1\ImprimibleDesafio.dll
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Imprimible\ImprimibleDesafio\ImprimibleDesafio\bin\Debug\netcoreapp3.1\ImprimibleDesafio.pdb
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Imprimible\ImprimibleDesafio\ImprimibleDesafio\obj\Debug\netcoreapp3.1\ImprimibleDesafio.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Imprimible\ImprimibleDesafio\ImprimibleDesafio\obj\Debug\netcoreapp3.1\ImprimibleDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Imprimible\ImprimibleDesafio\ImprimibleDesafio\obj\Debug\netcoreapp3.1\ImprimibleDesafio.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Imprimible\ImprimibleDesafio\ImprimibleDesafio\obj\Debug\netcoreapp3.1\ImprimibleDesafio.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Imprimible\ImprimibleDesafio\ImprimibleDesafio\obj\Debug\netcoreapp3.1\ImprimibleDesafio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Imprimible\ImprimibleDesafio\ImprimibleDesafio\obj\Debug\netcoreapp3.1\ImprimibleDesafio.dll
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Imprimible\ImprimibleDesafio\ImprimibleDesafio\obj\Debug\netcoreapp3.1\ImprimibleDesafio.pdb
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\Imprimible\ImprimibleDesafio\ImprimibleDesafio\obj\Debug\netcoreapp3.1\ImprimibleDesafio.genruntimeconfig.cache
