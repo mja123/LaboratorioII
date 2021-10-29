@@ -1,0 +1,10 @@
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\DesafíoElectrodomésticos\DesafioElectrodomesticosWF\DesafioElectrodomesticosWF\obj\Debug\DesafioElectrodomesticosWF.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\DesafíoElectrodomésticos\DesafioElectrodomesticosWF\DesafioElectrodomesticosWF\obj\Debug\DesafioElectrodomesticosWF.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\DesafíoElectrodomésticos\DesafioElectrodomesticosWF\DesafioElectrodomesticosWF\obj\Debug\DesafioElectrodomesticosWF.form1.resources
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\DesafíoElectrodomésticos\DesafioElectrodomesticosWF\DesafioElectrodomesticosWF\obj\Debug\DesafioElectrodomesticosWF.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\DesafíoElectrodomésticos\DesafioElectrodomesticosWF\DesafioElectrodomesticosWF\obj\Debug\DesafioElectrodomesticosWF.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\DesafíoElectrodomésticos\DesafioElectrodomesticosWF\DesafioElectrodomesticosWF\bin\Debug\DesafioElectrodomesticosWF.exe.config
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\DesafíoElectrodomésticos\DesafioElectrodomesticosWF\DesafioElectrodomesticosWF\bin\Debug\DesafioElectrodomesticosWF.exe
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\DesafíoElectrodomésticos\DesafioElectrodomesticosWF\DesafioElectrodomesticosWF\bin\Debug\DesafioElectrodomesticosWF.pdb
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\DesafíoElectrodomésticos\DesafioElectrodomesticosWF\DesafioElectrodomesticosWF\obj\Debug\DesafioElectrodomesticosWF.exe
+C:\Users\Usuario\OneDrive\Desktop\Facultad\Laboratorio II\source\repos\DesafíoElectrodomésticos\DesafioElectrodomesticosWF\DesafioElectrodomesticosWF\obj\Debug\DesafioElectrodomesticosWF.pdb
